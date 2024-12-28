@@ -1,2 +1,2 @@
 # Password_generator
-A password generator project
+This is a simple password generator project
